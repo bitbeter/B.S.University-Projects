@@ -1,0 +1,109 @@
+namedType specification
+namedType specification
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+other expressions
+operator: ==
+expression
+other expressions
+expression
+return
+second if statements
+other expressions
+expression
+return
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+if statements
+statement
+block
+func decleration: char2int
+program

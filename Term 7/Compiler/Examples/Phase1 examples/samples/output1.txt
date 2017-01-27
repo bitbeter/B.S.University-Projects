@@ -1,0 +1,20 @@
+namedType specification
+namedType specification
+func forward decleration: int2str_2digit
+namedType specification
+namedType specification
+other expressions
+expression
+other expressions
+expression
+variable decleration: a1, a0,
+statement
+other expressions
+other expressions
+expression
+operator: funcall
+expression
+statement
+block
+func decleration: main
+program

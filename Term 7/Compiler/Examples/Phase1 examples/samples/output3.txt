@@ -1,0 +1,39 @@
+namedType forward decleration: Func
+namedType forward decleration: Object
+namedType specification
+namedType specification
+namedType forward decleration: Func
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+namedType specification
+variable decleration: o,
+statement
+other expressions
+operator: .
+other expressions
+expression
+operator: funcall
+other expressions
+expression
+operator: funcall
+other expressions
+expression
+operator: funcall
+operator: .
+other expressions
+expression
+operator: funcall
+other expressions
+expression
+operator: funcall
+expression
+statement
+block
+func decleration: main
+program
